@@ -160,4 +160,11 @@ img {
     .why-us {
         background-color: black;
     }
+    p {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .col p {
+        width: 100%;
+    }
 }
